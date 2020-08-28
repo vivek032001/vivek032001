@@ -6,6 +6,5 @@ My name is Vivek.G
 - ⚡ Fun fact: I am also a history and political science afficianado
 
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek032001" alt="vivek032001" /> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek032001&layout=compact&hide=html" alt="vivek032001" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivek032001&show_icons=true" alt="vivek032001" /></p>
