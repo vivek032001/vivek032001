@@ -1,12 +1,6 @@
 ### Hi there 👋
-My name is Vivek.G 
-
-<!--
-**vivek032001/vivek032001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Computer vision
+My name is Vivek.G
+ 🔭 I’m currently working on Computer vision
 - 🌱 I’m currently learning NLP
 - 📫 Reach me through: www.linkedin.com/in/vivek-gereesan
 - ⚡ Fun fact: I am also a history and political science afficianado
