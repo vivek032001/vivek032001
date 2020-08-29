@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Vivek.G
- -🔭 I’m currently working on Computer vision projects
+- 🔭 I’m currently working on Computer vision projects
 - 🌱 I’m currently learning NLP
 - 📫 Reach me through: www.linkedin.com/in/vivek-gereesan
 - ⚡ Fun fact: I am also a history and political science afficianado
